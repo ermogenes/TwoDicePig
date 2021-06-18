@@ -1,0 +1,56 @@
+--- Two Dice Pig ---
+
+             ____               ________     ,',.`.            
+           \`''-.`-._..--...-'''        ```--':_ ) )           
+            `-.._` '              -..           ' /            
+     ,'`..__..'' -. _ `._                         \            
+    ('';`      _ ,''       .-'            ,'       :           
+     `-._     `*/     ,                  '      .  |           
+        _.:._   `-'`-'  ;   \                  ,'  ;           
+     .':::::'`    ,' \,'     :         ;          /            
+      `-..__        ,'/      |       ,'         ,'             
+            ``---;'` \ `     ;.____..-'`.     ,'\              
+                /   / \:    :            :   (\ `\             
+              ,'  .'   \    :           ;'   / )  )            
+             /,_,.;::.  `.   \         /   ,',',_(:::.         
+                          `.  `.     ,'  ;'                    
+                           /,_,'::. `-'`'::.                   
+
+=> Oi, eu sou o Kevin. Vamos jogar? Qual seu nome ? ______
+=> Eu começo! | => Você começa!
+
+--- Jogador | Placar: XXX | Nesta rodada: XX | Dica: CONTINUAR ---
+Rolagens => X e X
+Você perdeu tudo!
+Você não fez nenhum ponto...
+Você fez XX pontos.
+[P]assar | [ENTER] Continuar: 
+- (`(??)´) Você terminou seu turno com XX pontos.
+- Estamos empatados.
+- Você está ganhando por XX pontos.
+- Você está perdendo por XX pontos.
+
+--- Vitória :) Kevin virou bacon! ---
+          __      _.._         
+       .-'__`-._.'.--.'.__.,   
+      /--'  '-._.'    '-._./   
+     /__.--._.--._.'``-.__/    
+     '._.-'-._.-._.-''-..'     
+
+--- Derrota :( Olha a carinha de felicidade do Kevin! ---
+                                     _ _       
+                                    : * :      
+                                     `.'       
+                              __..             
+              __            .'  /__            
+   .       .-"  `--._.---.__`..'-.'            
+    \.-.-.''                    a `-'|         
+     `-' |        )            .   .'          
+         `       .     `.       `-'            
+          \     .        .     .'              
+           `.            :   .'                
+             `.  )"""--""\ |/ \                
+              | / \\     : ( `\\               
+              _/   ^      \_\  ^               
+
+- (`(??)´) Tchau! Volte sempre!
