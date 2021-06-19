@@ -83,7 +83,7 @@
 
                     // Calcula jogada ótima
                     bool estimadorRecomendaContinuar = Estimador.RecomendaContinuar(
-                        jogo.JogadorAtual.Placar,
+                        placarTemporario,
                         pontuacaoNaRodada,
                         jogo.PlacarJogadorAdversario()
                     );
@@ -102,7 +102,7 @@
                         // Jogador escolhe sua opção
                         jogadorVaiPassarAVez = UI.ObtemDecisaoPassar();
                     }
-                }
+                }   
 
                 if (jogadorVaiPassarAVez)
                 {
